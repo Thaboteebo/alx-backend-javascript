@@ -1,0 +1,9 @@
++ jest@29.7.0
++ eslint-plugin-jest@28.6.0
++ eslint@8.57.0
++ babel-plugin-macros@3.1.0
++ node-notifier@10.0.1
++ ts-node@10.9.2
+added 46 packages from 37 contributors, removed 51 packages, updated 30 packages, moved 6 packages and audited 1009 packages in 167.806s
+found 0 vulnerabilities
+
