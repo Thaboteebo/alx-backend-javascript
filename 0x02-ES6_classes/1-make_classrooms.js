@@ -1,6 +1,6 @@
-/* eslint-disable */
-import ClassRoom from './0-classroom.js';
+/* eslint disable */
+import ClassRoom from './0-classroom';
 
 export default function initializeRooms() {
-	return ClassRoom [19, 20, 34].map((value) => new ClassRoom(value));
+  return [19, 20, 34].map((value) => new ClassRoom(value));
 }
