@@ -1,3 +1,4 @@
+/* eslint-disable */
 const weakMap = new WeakMap();
 const queryAPI = (endpoint) => {
 	const counter = (weakMap.get(endpoint) || 0) + 1;

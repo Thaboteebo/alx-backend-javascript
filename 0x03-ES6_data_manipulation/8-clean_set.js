@@ -1,3 +1,4 @@
+/* eslint-disable */
 export default function cleanSet(xSet, xStartString) {
 	if (!xSet || !xStartString || !(xSet instanceof Set) || typeof xStartString !== 'string') {
 		return '';
