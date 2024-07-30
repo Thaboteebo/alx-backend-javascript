@@ -1,4 +1,4 @@
 /* eslint-disable */
-export default function getStudentsByLocation(listStudents, xtargetLocation) {
-	return listStudents.filter(({ location }) => location === xtargetLocation);
+export default function getStudentsByLocation(array, city) {
+	return array.filter((e) => e.location === city);
 }
